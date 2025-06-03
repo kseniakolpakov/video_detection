@@ -6,12 +6,11 @@
 ``
 git clone https://github.com/kseniakolpakov/video_detection.git
 ``
+
 2. Перейти в корневую папку проекта:
 
 ``
-cd video_detection
-
-``
+cd video_detection``
 
 3. Создать и активировать виртуальное окружение:
 
